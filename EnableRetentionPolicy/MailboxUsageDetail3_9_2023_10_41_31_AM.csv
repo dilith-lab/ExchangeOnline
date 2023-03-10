@@ -1,0 +1,4 @@
+﻿Report Refresh Date,User Principal Name,Display Name,Is Deleted,Deleted Date,Created Date,Last Activity Date,Item Count,Storage Used (Byte),Issue Warning Quota (Byte),Prohibit Send Quota (Byte),Prohibit Send/Receive Quota (Byte),Deleted Item Count,Deleted Item Size (Byte),Deleted Item Quota (Byte),Has Archive,Recipient Type,Report Period
+3/7/2023,admin@efficia.lk,Admin,FALSE,,2/20/2021,2/23/2023,43,1.07E+11,1.05E+11,1.06E+11,1.07E+11,20,101787,32212254720,FALSE,User,30
+3/7/2023,dilith@efficia.lk,Dilith Achalan,FALSE,,7/13/2022,2/23/2023,183,1.07E+11,1.05E+11,1.06E+11,1.07E+11,22,112772,32212254720,FALSE,User,30
+3/7/2023,Josh@efficia.lk,Josh Lynch,FALSE,,7/13/2022,,2,8054,1.05E+11,1.06E+11,1.07E+11,0,0,32212254720,FALSE,User,30
