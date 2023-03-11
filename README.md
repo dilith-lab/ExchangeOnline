@@ -13,6 +13,5 @@ By providing below arguments:
 - **-UsageReport** *[Mailbox usage report]* | **required**
 - **-MaxUsage** *[percentage]* | default value: 90. So if the user skipped it, the script will use the default value when considering mailbox usage
 - **-SkipConnection:** *[$true or $false]* | default value: $false. So that user has to authenticate as an privilege user every time script it running. User has the option to pass this value as $true to skip re-authentication.
-The script will identify the mailboxes exceeded the max usage and apply retention policy for all required users. 
 
-In the next version of this script, I’m planning to even more simplify by skipping importing mailbox usage report.
+The script will identify the mailboxes exceeded the max usage and apply retention policy for all required users. In the next version of this script, I’m planning to even more simplify by skipping importing mailbox usage report.
